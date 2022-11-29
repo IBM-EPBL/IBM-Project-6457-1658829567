@@ -15,7 +15,7 @@
 - [x] Sprint 1 <br>
 - [x] Sprint 2 <br>
 - [x] Sprint 3 <br>
-- [ ] Sprint 4 <br>
+- [x] Sprint 4 <br>
 
 Footer
 © 2022 GitHub, Inc.
